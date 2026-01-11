@@ -7,9 +7,9 @@
 // 3.props
 
 import React, { useState } from "react";
-import Count from "./component/count";
-import Name from "./component/name";
-import Navbar from "./component/navbar";
+import Count from "./component/Count";
+import Name from "./component/Name";
+import Navbar from "./component/Navbar";
 import Product from "./component/Product";
 
 import Apicall from "./component/Apicall";
@@ -71,6 +71,7 @@ function App() {
    {/* <CompA /> */}
    
    <GroceryList/>
+       <h1>vinodhere</h1> 
   
      
   {/* </CounterProvider> */}

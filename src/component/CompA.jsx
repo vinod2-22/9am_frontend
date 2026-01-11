@@ -20,7 +20,8 @@
 
 import React, { useContext } from "react";
 import CompB from "./CompB";
-import { CounterContext } from "./context/Countercontext";
+import { CounterContext } from "./context/CounterContext";
+
 
 
 export default function CompA() {
