@@ -10,7 +10,8 @@ import React, { useState } from "react";
 import Count from "./component/count";
 import Name from "./component/name";
 import Navbar from "./component/navbar";
-import Product from "./component/product";
+import Product from "./component/Product";
+
 import Apicall from "./component/Apicall";
 import "./App.css"
 import Apicalltwo from "./component/Apicalltwo";
