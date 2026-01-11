@@ -70,7 +70,8 @@ function App() {
    
    {/* <CompA /> */}
    
-   <GroceryList/>
+   {/* <GroceryList/> */}
+   
        <h1>vinodhere</h1> 
   
      
